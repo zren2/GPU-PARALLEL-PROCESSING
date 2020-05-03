@@ -56,17 +56,26 @@ python simpledemo.py
 
 2. Each convolutional layer kernel number in onet has reduced for faster network inference.
 
-## Result
+## Results
 
 **pnet**
 
-![pnet1](https://user-images.githubusercontent.com/16308037/53081537-059a1180-3536-11e9-8aa6-4ecfa8639bee.jpg)
+![pnet1](https://github.com/zren2/GPU-PARALLEL-PROCESSING/blob/master/FinalProject/2020-05-01%2014-19-56%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
 
 **rnet**
 
-![rnet1](https://user-images.githubusercontent.com/16308037/53081792-7fca9600-3536-11e9-8341-16b176bb9b12.jpg)
+![rnet1](https://github.com/zren2/GPU-PARALLEL-PROCESSING/blob/master/FinalProject/2020-05-01%2014-20-07%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
 
 **onet**
+
+![onet1](https://github.com/zren2/GPU-PARALLEL-PROCESSING/blob/master/FinalProject/2020-05-01%2014-20-22%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
+
+**Detect Faces With Mask**
+
+![onet1](https://github.com/zren2/GPU-PARALLEL-PROCESSING/blob/master/FinalProject/2020-04-29%2011-19-27%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
+![onet1](https://github.com/zren2/GPU-PARALLEL-PROCESSING/blob/master/FinalProject/2020-04-29%2011-20-17%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
+
+**Detect heads**
 
 ![onet1](https://user-images.githubusercontent.com/16308037/53081747-6c1f2f80-3536-11e9-84bc-6885cf991468.jpg)
 
