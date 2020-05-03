@@ -25,8 +25,11 @@ Unzip and put them in data directory.
 Add faces with mask dataset by yourself. Find and label faces with mask pictures from google or anywhere.
 
 ## Train
+Use --gpu 0 for CPU computer
+use --gpu n for GPU computer where n is the number of gpus you want to use.
 
 **pnet**
+
 ```
 python jfda/prepare.py --net p --wider --worker 8
 python jfda/train.py --net p --gpu 0 --size 128 --lr 0.05 --lrw 0.1 --lrp 5 --wd 0.0001 --epoch 25
