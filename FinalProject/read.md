@@ -8,7 +8,7 @@
 Set up environment and copy C++ layer code to Caffe's source code tree.
 
 ```
-$ export PYTHONPATH=/path/to/mtcnn-head-detection:$PYTHONPATH
+$ export PYTHONPATH=/path/to/mtcnn:$PYTHONPATH
 $ export CAFFE_HOME=/path/to/caffe
 $ pip install easydict
 $ pip install lmdb
@@ -21,6 +21,8 @@ Compile Caffe following its document.
 
 Download dataset [SCUT-HEAD](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release).
 Unzip and put them in data directory.
+
+Add faces with mask dataset by yourself. Find and label faces with mask pictures from google or anywhere.
 
 ## Train
 
