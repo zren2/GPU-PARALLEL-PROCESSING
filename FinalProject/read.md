@@ -70,10 +70,3 @@ python simpledemo.py
 
 ![onet1](https://user-images.githubusercontent.com/16308037/53081747-6c1f2f80-3536-11e9-84bc-6885cf991468.jpg)
 
-## References
-
-- [A Convolutional Neural Network Cascade for Face Detection](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Li_A_Convolutional_Neural_2015_CVPR_paper.pdf)
-- [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](http://arxiv.org/abs/1604.02878)
-- [MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
-- [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
-- [opencv-mtcnn](https://github.com/ksachdeva/opencv-mtcnn)
